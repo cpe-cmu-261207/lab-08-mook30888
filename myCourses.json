@@ -11,7 +11,13 @@
       "courseName": "Numerical for comp and engr",
       "credit": 3,
       "gpa": 4
+    },
+    {
+      "courseId": 261207,
+      "courseName": "Basic CPE LAB",
+      "credit": 2,
+      "gpa": 3.5
     }
   ],
-  "gpax": 3.8
+  "gpax": "3.71"
 }
